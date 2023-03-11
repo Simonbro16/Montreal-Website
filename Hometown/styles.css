@@ -1,0 +1,221 @@
+body {
+    margin: 0px;
+    color: white;
+}
+
+.Part-1 {
+    background-image: url(images/mtl.jpg);
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+    height: 400px;
+    text-shadow: 0 0 10px black;
+}
+
+#intro {
+    padding: 135px;
+    margin: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    text-align: center;
+    font-size: 100px;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 5px solid white;
+}
+
+#sub-title {
+    padding-top: 0px;
+    margin: 0px;
+    font-size: 30px;
+}
+
+.Part-2 {
+    background: #3d405b;
+    height: 500px;
+    text-align: center;
+    text-shadow: 0 0 10px black;
+}
+
+#Eat {
+    margin-top: 0px;
+    padding: 20px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.eating-list {
+    display: flex;
+    justify-content: space-around;
+}
+s
+.eating-list-item {
+    text-shadow: 0 0 10px black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.eating-item-img {
+    width: 200px;
+    padding-top: 0px;
+    border-radius: 12px;
+    border: 3px solid white;
+    box-shadow: 0 0 10px black;
+}
+
+.eating-item-title {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.eating-item-description {
+    font-size: 20px;
+    padding-top: 0px;
+    width:300px;
+}
+
+.Part-3 {
+    background: #81b29a;
+    text-align: center;
+    height: 500px;
+    text-shadow: 0 0 10px black;
+}
+
+#Activities {
+    margin-top: 0px;
+    padding: 20px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.activities-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.activities-list-item {
+    text-shadow: 0 0 10px black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.activities-item-img {
+    width: 200px;
+    padding-top: 0px;
+    border-radius: 12px;
+    border: 3px solid white;
+    box-shadow: 0 0 10px black;
+}
+
+.activities-item-title {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.activities-item-description {
+    font-size: 20px;
+    padding-top: 0px;
+    width:300px;
+}
+
+.Part-4 {
+    background: #f2cc8f;
+    text-align: center;
+    height: 500px;
+    text-shadow: 0 0 10px black;
+}
+
+#Views {
+    margin-top: 0px;
+    padding: 20px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.views-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.views-list-item {
+    text-shadow: 0 0 10px black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.views-item-img {
+    width: 200px;
+    padding-top: 0px;
+    border-radius: 12px;
+    border: 3px solid white;
+    box-shadow: 0 0 10px black;
+}
+
+.views-item-title {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.views-item-description {
+    font-size: 20px;
+    padding-top: 0px;
+    width:300px;
+}
+
+.Part-5 {
+    background: #e07a5f;
+    text-align: center;
+    height: 500px;
+    text-shadow: 0 0 10px black;
+}
+
+#Guide {
+    margin-top: 0px;
+    padding: 20px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.card {
+    margin-right: auto;
+    margin-left: auto;
+    width: 700px;
+    height: 300px;
+    border: 5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0 0 10px black;
+}
+
+#guide-img {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    border-right: 5px solid white;
+    padding-right: 25px;
+}
+
+.guide-paragraph {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 30px;
+}
+
+.guide-title {
+    font-size: 30px;
+    align-items: center;
+}
+
+.guide-text {
+    font-size: 18px;
+    align-items: center;
+}
